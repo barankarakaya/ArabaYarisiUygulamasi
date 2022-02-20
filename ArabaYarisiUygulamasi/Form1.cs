@@ -26,7 +26,7 @@ namespace ArabaYarisiUygulamasi
 
         int digerArabaHİZİ = 5;
 
-        Random rnd = new Random();
+        Random rnd = new Random(); 
 
         public void oyunuBaslat()
         {
